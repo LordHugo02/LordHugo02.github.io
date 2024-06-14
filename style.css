@@ -1,0 +1,58 @@
+nav{
+    background-color: darkgrey;
+}
+
+
+.imgtest{
+    width: 10%;
+    height: auto;
+    max-width: 10%;
+}
+
+
+
+.bg-darkgrey{
+    background-color: #545454;
+}
+
+.bg-grass {
+    background-image: url('img/bg/grass.webp');
+}
+
+.opacity-90{
+    opacity: 80%;
+}
+
+table, th, td {
+    border: 10px solid;
+}
+
+
+/* Style des lignes du tableau */
+tbody tr:nth-child(even) {
+    background-color: #f8f9fa; /* Couleur de fond pour les lignes paires */
+}
+
+
+
+
+
+.bgc1{
+    background-color: darkseagreen;
+}
+
+.bgc2{
+    background-color: tan;
+}
+
+.bgc3{
+    background-color: darkorange;
+}
+
+.bgc4{
+    background-color: darkred;
+}
+
+.bgc55{
+    background-color: aqua;
+}
